@@ -1,0 +1,6 @@
+01. accessor methods will be declared final to eliminate the
+      runtime cost of dynamic method binding.
+02. Each method declared in an interface is implicitly public and abstract.
+03. No method bodies are permitted in an interface declaration, because all methods are             abstract. But in Abstract Classes it is not so.
+04. But in Abstract classes method bodies are permitted for those methods, who are not               declared abstract and it is also not necessary to override these methods.
+05. You might be wondering when it’s better to use an abstract class or an interface. An       abstract class can provide instance variables, and nonabstract (i.e., implemented)       methods, as well as abstract methods. If you have a purely abstract class that consists       of only abstract methods, you will achieve greater flexibility by defining it as an interface.       Neither an abstract class nor an interface can be instantiated; however, you can create       variables that refer to objects that implement the interface or the abstract class.

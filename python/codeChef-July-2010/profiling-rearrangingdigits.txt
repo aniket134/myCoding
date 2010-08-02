@@ -1,0 +1,16 @@
+55610729 function calls in 339.459 CPU seconds
+5518038 function calls in 36.663 CPU seconds
+21516206 function calls in 158.267 CPU seconds
+2795506 function calls in 11.230 CPU seconds
+25846837 function calls in 103.284 CPU seconds
+30838867 function calls in 123.005 CPU seconds
+24380324 function calls in 107.633 CPU seconds
+58065069 function calls in 246.776 CPU seconds
+15860752 function calls in 77.870 CPU seconds
+27393293 function calls in 143.706 CPU seconds
+24223917 function calls in 103.043 CPU seconds
+37030073 function calls in 154.588 CPU seconds
+28557279 function calls in 120.744 CPU seconds
+23105128 function calls in 100.645 CPU seconds
+15859084 function calls in 70.451 CPU seconds
+30014608 function calls in 129.716 CPU seconds

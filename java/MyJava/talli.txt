@@ -1,0 +1,6 @@
+1. write a prog to find perfect no.
+2. nth fibonacci no.
+3. x raised to power n (iterative,recursive)
+
+		
+		ankit.agarwal3925@gmail.com

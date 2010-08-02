@@ -1,0 +1,6 @@
+f = open('sample.txt','w')
+f.write('hello')
+f.close()
+f = open('sample.txt', 'a')
+f.write(' there')
+f.close()
